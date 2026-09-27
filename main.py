@@ -5,7 +5,7 @@ from tarefas import criar_tarefa, listar_tarefas, concluir_tarefa, remover_taref
 tarefas = carregar_tarefas()
 
 def exibir_menu():
-    print("=== TASK MANAGER ===")
+    print("=== TASK MANAGER PYTHON ===")
     print("1. Criar tarefa")
     print("2. Listar tarefas")
     print("3. Concluir tarefa")
